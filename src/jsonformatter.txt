@@ -1,0 +1,159 @@
+{
+  "StudyDefinition": {
+    "header": {
+      "serviceAction": "Query",
+      "reqTimeStamp": "06/18/2024 18:47:10",
+      "username": "dwga4001"
+    },
+    "studyId": "9723",
+    "studyName": "TEST_CONFIGS",
+    "studyStatusId": "2",
+    "aspect": "PRODUCT",
+    "children": [
+      [
+        {
+          "groupId": "44934",
+          "groupName": "GEN_PG-BCM",
+          "groupType": "ProductGroup",
+          "children": [
+            [
+              {
+                "groupId": "106052",
+                "groupName": "TEST_FACT_CONF",
+                "groupType": "FactGroup",
+                "children": [
+                  [
+                    {
+                      "groupId": "135226",
+                      "groupName": "rig_test_gen_lg",
+                      "groupType": "LocationGroup",
+                      "children": [
+                        [
+                          {
+                            "groupId": "44937",
+                            "groupName": "abc_test_EG",
+                            "groupType": "ExhibitionGroup",
+                            "children": [
+                              [
+                                {
+                                  "groupId": "48378",
+                                  "groupName": "test_stores_weekly",
+                                  "groupType": "StoreGroup"
+                                }
+                              ],
+                              [
+                                {
+                                  "groupId": "106059",
+                                  "groupName": "TEST_QUESTION_CONF_GRP",
+                                  "groupType": "QuestionGroup",
+                                  "children": [
+                                    {
+                                      "groupId": "-1",
+                                      "groupName": "-1",
+                                      "groupType": "AttributeConfig",
+                                      "attributeData": [
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463030",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463031",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463032",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463033",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463034",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463036",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463037",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "463038",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "468812",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "459420",
+                                          "entityValueId": "468813",
+                                          "name": "8",
+                                          "value": "true"
+                                        },
+                                        {
+                                          "entityId": "482280",
+                                          "entityValueId": "482281",
+                                          "name": "8",
+                                          "value": "true"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ],
+                  {
+                    "groupId": "-1",
+                    "groupName": "-1",
+                    "groupType": "AttributeConfig",
+                    "attributeData": [
+                      {
+                        "entityId": "482277",
+                        "entityValueId": "5321",
+                        "name": "20",
+                        "value": "true"
+                      },
+                      {
+                        "entityId": "482277",
+                        "entityValueId": "5341",
+                        "name": "20",
+                        "value": "true"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(šì¹øÿÿÿÿ8ğ™ã‡ƒ2J$618660bc-ad91-4c36-9a38-5e6f89c856e4
+m	java:S106"+Replace this use of System.out by a logger.(¢Æªí8ñ™ã‡ƒ2J$839a49fe-1bec-4018-811d-b85333406af4
+y
+java:S1068@"1Remove this unused "serviceAction" private field.(—¹’øÿÿÿÿ8‘Üı‡ƒ2J$fc0b86e4-07c1-4a3e-977c-142481280e65
+s
+java:S1068A"0Remove this unused "reqTimeStamp" private field.(´Å×½8‘Üı‡ƒ2J$829e1503-f12c-4896-892f-2b52d2bb4296
+o
+java:S1068B",Remove this unused "username" private field.(‘ó¹²8‘Üı‡ƒ2J$dd23ce04-9e96-417a-b78b-f17742ad9a64
+m
+java:S1068I"+Remove this unused "groupId" private field.(Š¥½U8‘Üı‡ƒ2J$2c50adc3-6121-43b9-9d23-27ad665464ce
+u
+java:S1068J"-Remove this unused "groupName" private field.(‡³‚öûÿÿÿÿ8‘Üı‡ƒ2J$70a9ec0d-fa95-48dd-af08-46d4b2abdc57
+u
+java:S1068K"-Remove this unused "groupType" private field.(ïêØÄüÿÿÿÿ8‘Üı‡ƒ2J$92cb8d2a-f9b3-4536-8aa8-0cd302ea84e0
+t
+java:S1068L",Remove this unused "children" private field.(…»¿šüÿÿÿÿ8öÄˆˆƒ2J$7fdce581-33e7-428b-9300-8ee3c2067eb7
+t
+java:S1068M"1Remove this unused "attributeData" private field.(±¸’ú8‘Üı‡ƒ2J$ff228acc-6eb4-4017-84ed-2ef97d258801
+t
+java:S1068T",Remove this unused "entityId" private field.(ï“Ùëÿÿÿÿÿ8áåˆˆƒ2J$82afa004-b26d-4709-8e4e-2e609224373d
+t
+java:S1068U"1Remove this unused "entityValueId" private field.(™ ¶®8áåˆˆƒ2J$e9682c7f-07f7-4dcc-a7b3-80a1787bbfd9
+k
+java:S1068V"(Remove this unused "name" private field.(Ë¥¼8áåˆˆƒ2J$663b9393-9346-404c-a0e0-975599a2a43b
+l
+java:S1068W")Remove this unused "value" private field.(ŸÑÆ÷8áåˆˆƒ2J$5a6160bb-f587-4294-b843-a425fb8363c2
